@@ -4,7 +4,7 @@ class GradientAppBar extends StatelessWidget {
   
   
   final String title;
-  final double barHeight = 80.0;
+  final double barHeight = 90.0;
 
 
   GradientAppBar(this.title);
@@ -41,7 +41,7 @@ class GradientAppBar extends StatelessWidget {
             color: Colors.white,
             fontFamily: 'Poppins',
             fontWeight: FontWeight.w600,
-            fontSize: 36.0
+            fontSize: 25.0
           )
         ),
       ),

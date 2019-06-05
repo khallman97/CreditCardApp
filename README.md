@@ -1,16 +1,16 @@
 # credit_card
 
-A new Flutter project.
+This app has the main goal of reminding users that they have bills/credit card
+payments. It should also have some way of seeing when the amount is due as well
+as how much and what it was spent on. The app may also include some visuals that
+indicate your biggest spendings in the form of a chart and a total amount owed 
+between a certian time. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<h1>Core Ideas/To-Do List</h1>
+<ul>
+  <li>Input an amount spent and amount due for a certian time</li>
+  <li>Be able to see when money is due clearly</li>
+  <li>Some sort of visual as to how much total you owe by x date</li>
+  <li>push notifactions as reminders</li>
+  <li>Icon indicator as to what you spend money on</li>
+</ul>
