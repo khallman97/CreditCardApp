@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:credit_card/HomePage.dart';
+import 'package:credit_card/ui/home/HomePage.dart';
 
 void main() {
- // Routes.initRoutes();
+  //Routes.initRoutes();
   runApp(new MaterialApp(
-    title: "Credit Card",
+    title: "Planets",
     home: new HomePage(),
   ));
 }
