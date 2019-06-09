@@ -37,3 +37,7 @@ between a certian time.
   <li>Set up push notifactions</li>
   <li>Add swipe to dismiss feature</li>
 </ul>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/P0wkZR7">
+ <a href="https://imgur.com/MSPk1zv">Picture of progress</a></blockquote>
+
