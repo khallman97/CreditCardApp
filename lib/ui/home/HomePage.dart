@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:credit_card/ui/home/GradientAppBar.dart';
+import 'package:credit_card/ui/home/HomePageBody.dart';
 
 class HomePage extends StatelessWidget {
 
@@ -9,6 +10,7 @@ class HomePage extends StatelessWidget {
       body: new Column(
         children: <Widget>[
           new GradientAppBar("Payments"),
+          new HomePageBody(),
         ],
       ),
     );
