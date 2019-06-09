@@ -6,13 +6,13 @@ as how much and what it was spent on. The app may also include some visuals that
 indicate your biggest spendings in the form of a chart and a total amount owed 
 between a certian time. 
 
-<h2>Core Ideas/To-Do List</h2>
+<h1>Core Ideas/To-Do List</h1>
 <ul>
-  <li>Input an amount spent and amount due for a certian time</li>
-  <li>Be able to see when money is due clearly</li>
-  <li>Some sort of visual as to how much total you owe by x date</li>
-  <li>push notifactions as reminders</li>
-  <li>Icon indicator as to what you spend money on</li>
+  <li><b>Input an amount spent and amount due for a certian time</b></li>
+  <li><b>Be able to see when money is due clearly</b></li>
+  <li><b>Some sort of visual as to how much total you owe by x date</b></li>
+  <li><b>push notifactions as reminders</b></li>
+  <li><b>Icon indicator as to what you spend money on</b></li>
 </ul>
 
 
