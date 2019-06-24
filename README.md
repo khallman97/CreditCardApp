@@ -39,7 +39,7 @@ between a certian time.
 </ul>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/P0wkZR7">
- <a href="https://imgur.com/MSPk1zv">Picture of progress</a></blockquote>
+ <a href="https://imgur.com/MSPk1zv" target="_blank">Picture of progress</a></blockquote>
 
 <h2>Progress Report - June 23th 2019</h2>
 
@@ -61,4 +61,4 @@ between a certian time.
 </ul>
   
  <blockquote class="imgur-embed-pub" lang="en" data-id="a/sviOojW">
- <a href="//imgur.com/a/sviOojW">Picture of progress</a></blockquote>
+ <a target="_blank" href="//imgur.com/a/sviOojW" >Picture of progress</a></blockquote>
