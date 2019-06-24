@@ -5,7 +5,7 @@ class Payment {
   final String image;
 
   const Payment({this.id , this.amount , this.dueDate , this.image});
-
+  
 }
 
 
@@ -42,3 +42,4 @@ List<Payment> payments = [
     image: "assets/img/social.png",
   ),
 ];
+
