@@ -59,6 +59,6 @@ between a certian time.
   <li>Set up push notifactions</li>
   <li>Add swipe to dismiss feature</li>
 </ul>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/sviOojW">
-  <a href="//imgur.com/a/sviOojW"></a></blockquote>
+  
+ <blockquote class="imgur-embed-pub" lang="en" data-id="a/sviOojW">
+ <a href="//imgur.com/a/sviOojW">Picture of progress</a></blockquote>
