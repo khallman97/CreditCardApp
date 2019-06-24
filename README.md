@@ -60,5 +60,4 @@ between a certian time.
   <li>Add swipe to dismiss feature</li>
 </ul>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/P0wkZR7">
- <a href="https://imgur.com/NvYQVyR">Picture of progress</a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/sviOojW"><a href="//imgur.com/a/sviOojW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
